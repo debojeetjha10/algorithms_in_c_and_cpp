@@ -2,5 +2,5 @@
 
 2.Add your code
 
-3.send ne the pull Request. :~]
+3.send me the pull Request. :~]
 
