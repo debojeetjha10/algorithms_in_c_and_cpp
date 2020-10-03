@@ -1,7 +1,0 @@
-*
-!cpp/**
-!c/**
-!*/.cpp
-!*/.c
-!*.md
-!.gitignore
